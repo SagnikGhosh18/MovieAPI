@@ -4,7 +4,6 @@ A simple RESTful API created using NodeJS. The basic CRUD operations have been i
 ## Steps to run:
 1) cd over to the directory of the project and run the following commands:   
 ![](Images/1.jpg) 
-![](https://github.com/SagnikGhosh18/MovieAPI/blob/main/Images/1.jpg?raw=true)
 ![](Images/2.jpg)   
 ![](Images/3.jpg)   
 Note: These commands must be run simultaneously in 3 tabs of the command prompt.   
