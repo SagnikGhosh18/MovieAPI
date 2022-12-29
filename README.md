@@ -3,7 +3,7 @@ A simple RESTful API created using NodeJS. The basic CRUD operations have been i
 
 ## Steps to run:
 1) cd over to the directory of the project and run the following commands:   
-[](Images/1.jpg)   
+![](Images/1.jpg)   
 ![](Images/2.jpg)   
 ![](Images/3.jpg)   
 Note: These commands must be run simultaneously in 3 tabs of the command prompt.   
